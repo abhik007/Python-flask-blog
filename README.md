@@ -1,5 +1,13 @@
 # Python-flask-blog
-This is a blog that I have created using flask framework
+#### personal minimalist blog website
 
-dependecies :
-pymysql, json
+## Intro
+This is a blog that I have created using python flask framework.<br>
+This template can be used to setup personal blog. It is really easy to modify and maintain.
+
+## Technology used :
+* Flask
+
+## dependecies :
+* pymysql
+* json
