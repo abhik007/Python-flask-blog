@@ -11,3 +11,8 @@ This template can be used to setup personal blog. It is really easy to modify an
 ## dependecies :
 * pymysql
 * json
+
+## Features
+* Full fledge blog website
+* Admin dashboard for managing blog posts
+* In app platform for writing posts with rich text editor
